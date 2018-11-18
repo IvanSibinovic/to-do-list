@@ -74,7 +74,7 @@ input:focus{
 
 footer {
 	font-family: Roboto;
-	text-align: center;
+	margin-left: 30px;
 	font-size: 10px;
 	opacity: 0.5;
 	font-weight: bold;
