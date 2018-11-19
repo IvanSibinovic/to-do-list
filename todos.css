@@ -72,14 +72,6 @@ input:focus{
 	outline: none;
 }
 
-footer {
-	font-family: Roboto;
-	margin-left: 30px;
-	font-size: 10px;
-	opacity: 0.5;
-	font-weight: bold;
-}
-
 #container {
 	width: 360px;
 	margin: 100px auto;
